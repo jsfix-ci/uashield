@@ -41,7 +41,7 @@
     "quasar": "^2.0.0",
     "simple-ddos": "^2.0.4",
     "socks-proxy-agent": "^6.2.0-beta.0",
-    "superagent": "^7.1.2",
+    "superagent": "^8.0.0",
     "superagent-proxy": "^3.0.0",
     "universal-analytics": "^0.5.3",
     "user-agents": "^1.0.965",
